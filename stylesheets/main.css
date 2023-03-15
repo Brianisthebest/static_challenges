@@ -1,0 +1,47 @@
+.header1 {
+  background-color: rgb(204, 0, 0);
+  color: white;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 35px;
+  padding: 20px;
+}
+
+.header2 {
+  background-color: rgb(38, 38, 38);
+  padding: 20px;
+  height: 35px;
+}
+
+.right {
+  text-align: right;
+  float: right;
+}
+
+.links {
+  text-align: right;
+  float: right;
+  color:white; 
+  font-family: Arial;
+  background-color:rgb(38, 38, 38);
+  padding: 10px;
+}
+
+.rightblock {
+  font-family: Arial;
+  float: right;
+  text-align: left;
+  padding: 10px;
+  top: 0px;
+}
+
+.dam {
+  font-family: Arial;
+  text-align: justify;
+  width: 900px;
+  padding-left: 35px;
+}
+
+.footer {
+  
+}
